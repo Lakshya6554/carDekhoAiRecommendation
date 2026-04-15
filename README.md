@@ -16,7 +16,7 @@ Find your perfect car in 2 minutes. Built for CarDekho Group take-home assignmen
 - **Styling:** Tailwind CSS + shadcn/ui
 - **AI:** Anthropic Claude API (`claude-sonnet-4-5`)
 - **Validation:** Zod
-- **Data:** Static JSON (`/data/cars.json` — 22 cars, 2024 specs)
+- **Data:** Static JSON (`/data/cars.json` — 80+ cars, 2024 specs)
 - **Deployment:** Vercel
 
 ## Getting Started
